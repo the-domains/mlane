@@ -1,0 +1,28 @@
+name: mlane
+favicon: null
+layout_spectrum: 0.3481390718370676
+typography_spectrum: 0.8490186783019453
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8232753814663738
+  lightness: 0.8404467315413058
+  saturation: 0.33882154477760196
+  rhythmicContrast: 0.18126047193072736
+purpose: []
