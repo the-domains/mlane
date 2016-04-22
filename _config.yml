@@ -1,28 +1,40 @@
-name: mlane
 favicon: null
-layout_spectrum: 0.26068
-typography_spectrum: 0.44155
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: mlane
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6815252
+  brandStrength: 0.8232753814663738
+  lightness: 0
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.8232753814663738
-  lightness: 0.8404467315413058
-  saturation: 0.33882154477760196
-  rhythmicContrast: 0.18126047193072736
-purpose: []
+  rhythmicContrast: 0.4215897
+typography_spectrum: 0.8490186783019453
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3481390718370676
+analytics:
+  twitter: null
+  google: null
+  facebook: null
