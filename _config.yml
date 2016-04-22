@@ -1,5 +1,4 @@
-favicon: null
-name: mlane
+layout_spectrum: 0.3481390718370676
 opengraph:
   image: null
   type: null
@@ -18,7 +17,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.6815252
+  saturation: 0.207841
   brandStrength: 0.8232753814663738
   lightness: 0
   brandColors:
@@ -27,14 +26,15 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.4215897
+  rhythmicContrast: 0.8222342
 typography_spectrum: 0.8490186783019453
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.3481390718370676
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: mlane
