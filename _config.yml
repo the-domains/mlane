@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: mlane
 opengraph:
   image: null
   type: null
@@ -30,11 +28,13 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   rhythmicContrast: 0.8222342
-typography_spectrum: 0.255102
+typography_spectrum: 0.2389903
+layout_spectrum: 0.03705691
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.03705691
-favicon: null
-name: mlane
+analytics:
+  twitter: null
+  google: null
+  facebook: null
